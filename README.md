@@ -1,1 +1,2 @@
 # Codeforces
+Self training
